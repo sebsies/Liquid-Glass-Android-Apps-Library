@@ -16,3 +16,8 @@ The only apps on here are:
 * Liquid Glass Calculator (Made by **me**)
 
 On a side note, I will update this repository regularly to add more apps, or add more to this description.
+
+# Up Next...
+The next apps planning on getting **Liquid Glassified** are:
+* Fossify Calendar
+* Fossify Clock
