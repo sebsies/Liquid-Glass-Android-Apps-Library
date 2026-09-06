@@ -14,10 +14,10 @@ If you creators of these apps, **for any reason**, ask me to take down any of th
 The only apps on here are:
 * Tomato (Pomodoro Timer FOSS App) (Made by **nsh07**)
 * Liquid Glass Calculator (Made by **me**)
-
+* Liquid Glass Playground (Made by **me**)
 On a side note, I will update this repository regularly to add more apps, or add more to this description.
 
 # Up Next...
 The next apps planning on getting **Liquid Glassified** are:
-* Fossify Calendar
 * Fossify Clock
+* Fossify Calendar
