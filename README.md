@@ -25,4 +25,4 @@ On a side note, I will update this repository regularly to add more apps, or add
 
 # Up Next...
 The next apps planning on getting **Liquid Glassified** are:
-* Fossify Clock (Currently in testing...)
+* Fossify Clock (Cancelled, for some reason does not work)
