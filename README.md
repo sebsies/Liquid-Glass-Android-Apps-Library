@@ -1,4 +1,3 @@
-
 # Liquid Glass Android Apps Library
 Have you ever wanted your favorite FOSS apps to have a somehow... New look? Well, want no further! As I took a few FOSS apps and replaced a few parts of its UI with Liquid Glass!
 <img width="1335" height="541" alt="1000454054" src="https://github.com/user-attachments/assets/4e3d1071-7ece-47d3-b7c8-c1210e0b1ddb" />
@@ -14,6 +13,7 @@ If you creators of these apps, **for any reason**, ask me to take down any of th
 # More coming soon!
 The only apps on here are:
 * Tomato (Pomodoro Timer FOSS App) (Made by **nsh07**)
+<img width="1439" height="1433" alt="1000454023" src="https://github.com/user-attachments/assets/2bfa2309-b131-46fb-b33b-57d0fd201d48" />
 * Liquid Glass Calculator (Made by **me**)
 * Liquid Glass Playground (Made by **me**)
 On a side note, I will update this repository regularly to add more apps, or add more to this description.
