@@ -1,7 +1,7 @@
 # Liquid Glass Android Apps Library
 Have you ever wanted your favorite FOSS apps to have a somehow... New look? Well, want no further! As I took a few FOSS apps and replaced a few parts of its UI with Liquid Glass!
 
-<img width="1335" height="541" alt="1000454054" src="https://github.com/user-attachments/assets/4e3d1071-7ece-47d3-b7c8-c1210e0b1ddb" />
+<img width="1439" height="642" alt="1000454220" src="https://github.com/user-attachments/assets/28addc8d-119d-457a-97f5-9c263072bcda" />
 
 # Keep in Mind...
 * I made this with **Gemini**. Shocker.
