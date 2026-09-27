@@ -5,16 +5,14 @@ Have you ever wanted your favorite FOSS apps to have a somehow... New look? Well
 
 # Keep in Mind...
 * I made this with **Gemini**. Shocker.
-* These # 🧪 Liquid Glass Android Apps Library
-*# 🧪 Liquid Glass Android Apps Library
+* These Liquid Glass Android Apps Library
+Liquid Glass Android Apps Library
 
 > **Transforming favorite FOSS Android apps with sleek Liquid Glass UI elements.**
 >
 > ---
 >
-> <p align="center">
-  <img src="/user-attachments/assets/28addc8d-119d-457a-97f5-9c263072bcda" alt="Liquid Glass Header" width="100%" />
-  </p>
+>
 
   Have you ever wanted your favorite Free and Open Source (FOSS) apps to feature a fresh, modern aesthetic? Look no further! This library brings customized, Liquid Glass-inspired user interfaces to select Android FOSS applications.
 
