@@ -22,6 +22,8 @@ The only apps on here are:
 * Liquid Glass Playground (Made by **me**)
 
 On a side note, I will update this repository regularly to add more apps, or add more to this description.
+# Status...
+Right now, there won't be any more Liquid Glassified FOSS apps until Google Deepmind releases Gemini 4 Argon (or any other model that codes better than Gemini 3.8 Flash) because Gemini 3.8 Flash still gets a bunch of stuff wrong when developing these modifications.. I'm sure Gemini 4 Argon is still gonna be a bit of a handful, but atleast Gemini 4 Argon will probably fill one hand instead of 2 (hopefully).
 
 # Up Next...
 The next apps planning on getting **Liquid Glassified** are:
